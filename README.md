@@ -1,2 +1,2 @@
-# Flashcard-Firmware-Archive
-This is an archive of all the flashcard firmwares for the Nintendo DS
+# This repository has moved.
+https://github.com/DS-Homebrew/flashcard-archive
